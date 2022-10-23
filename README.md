@@ -6,7 +6,7 @@ A fan repo for the 5th edition of the Near Field Communications Digital Art Bien
 Using a lose interpretation of “Near Field Communication” Bang relies on posters, NFC tags and QR codes. It was started off in 2014 by https://nfcwproject.tumblr.com/ReadMe and is regularly helped with iterations by https://noemata.net/, https://konstantinamavridou.xyz/ and https://www.browserbased.org/.
 
 
-Up until the time of writing, #nfcdab 2022 went to Düsseldorf (DE), Thessaloniki (GR), Gárdony (HU) this year. The various locations in Thessaloniki appear marked on Google maps as Historical Landmarks “NFC Thessaloniki”. Please, see more below. The locations in Gárdony are marked on openstreetmap. The friend who lives at 5th street location in Gárdony, and was happy to put up the codes on her private property, reports that, with the codes hanging, her dog barks more often as passersby stop to scan codes.
+Up until the time of writing, #nfcdab 2022 went to Düsseldorf (DE), Thessaloniki (GR), Gárdony (HU) this year. Please, see more below! The various locations in Thessaloniki appear marked on Google maps as Historical Landmarks “NFC Thessaloniki”. The locations in Gárdony are marked on openstreetmap. The friend who lives at 5th street location in Gárdony, and was happy to put up the codes on her private property, reports, that with the codes hanging, her dog barks more often as passersby stop to scan codes.
 
 
 Artists: Alex Zakas, Ana Buigues, Benna Gaean Maris, Brian Khuu, Dominik Podsiadly, Felix Adam, Iza Koczanowska, Joubin Zargarbashi, Jovita Majewski, Juli Laczko, Klara Landwehr, Konstantina Mavridou, Mirosław Chudy, Noemata, oops.group, Patrick Lichty, tzcha.tez, Xavier Dallet.
